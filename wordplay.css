@@ -34,6 +34,6 @@
   overflow-y: scroll;
 }
 
-.partner-archive-confirm-buttons.el-row {
+.partner-archive-confirm .partner-archive-confirm-buttons el-row {
     display: none !important;
 }
