@@ -33,7 +33,3 @@
 .transcript.panel {
   overflow-y: scroll;
 }
-
-.partner-archive-confirm-buttons.el-row {
-    display: none !important;
-}
