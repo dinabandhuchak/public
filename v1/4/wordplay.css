@@ -1,0 +1,46 @@
+.wordplay-root {
+  padding: 0 !important;
+}
+
+.icon-text,
+.time-controls,
+.gutter,
+.program-metadata.panel,
+.centered-vertically.clip-duration.el-col.el-col-24.el-col-xs-6.el-col-md-7.el-col-lg-8,
+.el-tooltip.actions__button-wrapper.el-button,
+.el-button.button__email.el-button--primary,
+.transcript__button.transcript__pad-before,
+.transcript__button.transcript__pad-after,
+.transcript__selection-controls,
+.minute__thumbnail-col.el-col.el-col-24.el-col-xs-5.el-col-sm-5,
+.el-button.button__archive-clip.el-button--primary span,
+.el-button.button__load-clip.el-button--primary {
+  display: none !important;
+}
+
+.wordplay__video-column .wordplay__data-wrapper {
+  min-height: auto !important;
+}
+
+.el-row.el-row--flex.minute {
+  border-top: none;
+}
+
+.el-button.button__archive-clip.el-button--primary::before {
+  content: "Save";
+}
+
+.transcript.panel {
+  overflow-y: scroll;
+}
+
+.partner-archive-confirm .partner-archive-confirm-buttons button {
+    display: none;
+}
+
+.partner-archive-confirm .partner-archive-confirm-buttons button:first-child {
+    display: block;
+}
+.partner-archive-confirm .partner-archive-confirm-buttons button:first-child span {
+  content: "Ok";
+}
