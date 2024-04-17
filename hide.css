@@ -1,0 +1,63 @@
+.actions__buttons {
+    visibility: hidden;
+}
+.transcript {
+    display: none !important; 
+}
+.program-metadata {
+    visibility: hidden !important; 
+}
+.clip-actions {
+    visibility: hidden !important; 
+}
+.wordplay__video {
+    background-color: #e0e4ec !important;	
+}
+.media-player {
+    width: 100% !important;
+	height: 100% !important;
+}
+.vue-slider-dot-0 {
+    visibility: hidden !important; 
+}
+.vue-slider-dot-1 {
+    visibility: hidden !important; 
+}
+.wordplay__video  {
+	border: 0px;
+}
+.media-controls {
+    width: 100% !important;
+	box-sizing: none !important;
+}
+.icon-text {
+    visibility: hidden !important; 
+}
+.control-buttons {
+    visibility: hidden !important; 
+	position: relative !important;
+	left: -10px !important;
+}
+.wordplay-player_html5_api {
+	position: absolute;
+	left: 20px;
+}
+body {
+    overflow: hidden !important; 
+}
+.wordplay-root {
+    overflow: hidden !important; 
+}
+.wordplay__data-wrapper {
+	display: none;
+}/* */
+.transcript panel {
+	display: none;
+}
+.wordplay__video-column {
+	height: 100%;
+	width: 100%;
+}
+.wordplay-root .gutter {
+	display: none;
+}
